@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e7fe8c9-6973-4ca3-bf79-b1e987377236" name="Changes" comment="feat: 기본 프레임 및 라우팅 설정">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/truck.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+    <list default="true" id="6e7fe8c9-6973-4ca3-bf79-b1e987377236" name="Changes" comment="feat: 동적(Link) 및 정적(img) 자원 사용">
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +101,7 @@
       <updated>1737447292904</updated>
       <workItem from="1737447294356" duration="2039000" />
       <workItem from="1737449355327" duration="110000" />
-      <workItem from="1737449478733" duration="748000" />
+      <workItem from="1737449478733" duration="872000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 기본 프레임 및 라우팅 설정">
       <option name="closed" value="true" />
@@ -115,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737449558375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 동적(Link) 및 정적(img) 자원 사용">
+      <option name="closed" value="true" />
+      <created>1737450267386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737450267386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 기본 프레임 및 라우팅 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 기본 프레임 및 라우팅 설정" />
+    <MESSAGE value="feat: 동적(Link) 및 정적(img) 자원 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 동적(Link) 및 정적(img) 자원 사용" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
